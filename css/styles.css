@@ -1,0 +1,15 @@
+:root {
+  --Primary_Brand-color: #4d5ae5;
+  --Pressed_state-color: #404bbf;
+  --Dark-color: #2e2f42;
+  --Success-color: #31d0aa;
+  --Text-color: #434455;
+  --Subtle_Text-color: #8e8f99;
+  --Accent-color: #e7e9fc;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
