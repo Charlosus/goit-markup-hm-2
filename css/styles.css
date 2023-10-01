@@ -67,7 +67,7 @@ body {
   font-size: 56px;
   line-height: 107%;
   text-align: center;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.02em;
   color: var(--White_background-color);
 }
 .order_button {
