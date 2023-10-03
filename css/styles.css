@@ -50,14 +50,11 @@ body {
   letter-spacing: 0.02em;
   color: var(--Text-color);
 }
-.nav_link:hover {
-  color: var(--Pressed_state-color);
-}
+.nav_link:hover,
 .nav_link:focus {
   color: var(--Pressed_state-color);
 }
-
-.address {
+.nav_link:focus .address {
   font-style: normal;
 }
 .first_section {
